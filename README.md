@@ -4,7 +4,7 @@ Welcome to the **Llama 3.3 Chatbot**! This web app integrates the GroqCloud API 
 
 🌐 **Live App**: [Llama 3.3 Chatbot - My GPT](https://vatsa-gpt.streamlit.app/)
 
-![Llama 3.3 Chatbot Screenshot](assests/main_page.png)
+![Llama 3.3 Chatbot Screenshot](https://github.com/Vatsa10/My-GPT/blob/main/output.png)
 *Screenshot of the Llama 3.3 Chatbot in action*
 ---
 
