@@ -2,7 +2,7 @@
 
 Welcome to the **Llama 3.3 Chatbot**! This web app integrates the GroqCloud API with the Llama 3.3 70B language model to create an interactive chatbot experience. You can ask questions or have conversations with the chatbot in real time, leveraging the capabilities of advanced AI technology.
 
-🌐 **Live App**: [Llama 3.3 Chatbot - My GPT](https://)
+🌐 **Live App**: [Llama 3.3 Chatbot - My GPT](https://vatsa-gpt.streamlit.app/)
 
 ![Llama 3.3 Chatbot Screenshot](assests/main_page.png)
 *Screenshot of the Llama 3.3 Chatbot in action*
@@ -18,7 +18,7 @@ Welcome to the **Llama 3.3 Chatbot**! This web app integrates the GroqCloud API 
 
 ## 🚀 Quick Start
 
-1. **Visit the Web App**: [Llama 3.3 Chatbot - My GPT](https://)
+1. **Visit the Web App**: [Llama 3.3 Chatbot - My GPT](https://vatsa-gpt.streamlit.app/)
 2. **Start a Conversation**: Enter your message in the input box, hit **Send**, and receive a response from the chatbot!
 
 ---
@@ -82,7 +82,7 @@ Feel free to reach out at: vatsajoshi2@gmail.com
 
 ## 🔗 Useful Links
 
-- **Deployed Web App**: [Llama 3.3 Chatbot - My GPT](https://)
+- **Deployed Web App**: [Llama 3.3 Chatbot - My GPT](https://vatsa-gpt.streamlit.app/)
 - **GitHub Repository**: [GitHub - My GPT](https://github.com/Vatsa10/My-GPT)
 - **GroqCloud API**: [GroqCloud API Documentation](https://www.groqcloud.com/api-docs)
 - **Streamlit Documentation**: [Streamlit Docs](https://docs.streamlit.io/)
