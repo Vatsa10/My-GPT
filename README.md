@@ -4,7 +4,7 @@ Welcome to the **Llama 3.3 Chatbot**! This web app integrates the GroqCloud API 
 
 🌐 **Live App**: [Llama 3.3 Chatbot - My GPT](https://)
 
-![Llama 3.2 Chatbot Screenshot](assests/main_page.png)
+![Llama 3.3 Chatbot Screenshot](assests/main_page.png)
 *Screenshot of the Llama 3.3 Chatbot in action*
 ---
 
