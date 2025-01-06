@@ -5,7 +5,7 @@ Welcome to the **Llama 3.3 Chatbot**! This web app integrates the GroqCloud API 
 🌐 **Live App**: [Llama 3.3 Chatbot - My GPT](https://)
 
 ![Llama 3.2 Chatbot Screenshot](assests/main_page.png)
-*Screenshot of the Llama 3.2 Chatbot in action*
+*Screenshot of the Llama 3.3 Chatbot in action*
 ---
 
 ## ✨ Features
@@ -25,8 +25,8 @@ Welcome to the **Llama 3.3 Chatbot**! This web app integrates the GroqCloud API 
 
 ## 🛠️ Technologies Used
 
-- **Llama 3.3 70B Model**: The chatbot is powered by the Llama 3.2 language model, known for its advanced natural language understanding and response generation.
-- **GroqCloud API**: We are using the **GroqCloud** API to connect to and retrieve responses from the Llama 3.2 model.
+- **Llama 3.3 70B Model**: The chatbot is powered by the Llama 3.3 language model, known for its advanced natural language understanding and response generation.
+- **GroqCloud API**: We are using the **GroqCloud** API to connect to and retrieve responses from the Llama 3.3 model.
 - **Streamlit**: A Python framework used to deploy the web app, offering a simple and easy-to-use interface for real-time interaction.
 
 ---
